@@ -17,6 +17,11 @@ function updateProductName(index, newName) {
   products[index] = newName;
 }
 
+// Remove the last product
+function removeLastProduct() {
+  products.pop();
+}
+
 
 
 // Export the necessary parts for testing
