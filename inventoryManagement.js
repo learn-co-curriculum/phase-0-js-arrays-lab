@@ -7,6 +7,12 @@ function logFirstProduct() {
   console.log(products[0]);
 }
 
+// Add a new product
+function addProduct(productName) {
+  products.push(productName);
+}
+
+
 
 
 // Export the necessary parts for testing
