@@ -2,6 +2,11 @@
 // Create the products array
 let products = ["Laptop", "Phone", "Headphones", "Monitor"];
 
+// Log the first product
+function logFirstProduct() {
+  console.log(products[0]);
+}
+
 
 
 // Export the necessary parts for testing
