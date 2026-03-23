@@ -12,6 +12,10 @@ function addProduct(productName) {
   products.push(productName);
 }
 
+// Update a product name
+function updateProductName(index, newName) {
+  products[index] = newName;
+}
 
 
 
