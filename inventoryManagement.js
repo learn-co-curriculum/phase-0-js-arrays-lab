@@ -1,4 +1,6 @@
 // Write your code here
+// Create the products array
+let products = ["Laptop", "Phone", "Headphones", "Monitor"];
 
 
 
